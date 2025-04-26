@@ -51,7 +51,7 @@ Responsive Design Principles
 Clone this repository:
 
 bash
-git clone https://github.com/yourusername/eduhub.git
+git clone https://github.com/Ashishkumar86/eduhub.git
 Navigate into the project directory:
 
 bash
